@@ -13,4 +13,7 @@ Total_Summary
 
 <img width="308" alt="image" src="https://user-images.githubusercontent.com/102757676/179271819-63784cb5-0ca8-471f-a809-aa6213f47d3d.png">
 
+Lot_Summary
+
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/102757676/179272669-ad0b0d16-d70a-4210-90b9-47ef9f7946f0.png">
 
