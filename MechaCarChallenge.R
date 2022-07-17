@@ -12,9 +12,7 @@ lot_summary <- suspension_data %>% group_by(Manufacturing_Lot) %>% summarize(Mea
 # T-Tests on Suspension Coils
 ?t.test()
 t.test(x=suspension_data$PSI, alternative = "two.sided", mu = 1500)
-subs_1 <- which(suspension_data$Manufacturing_Lot=="Lot1")
-subs_2 <- which(suspension_data$Manufacturing_Lot=="Lot2")
-subs_3 <- which(suspension_data$Manufacturing_Lot=="Lot3")
-t.test(x=suspension_data$PSI, alternative = "two.sided", mu = 1500, subset = subs_1)
-t.test(x=suspension_data$PSI, alternative = "two.sided", mu = 1500, subset = subs_2)
-t.test(x=suspension_data$PSI, alternative = "two.sided", mu = 1500, subset = subs_3)
+
+t.test(subset(suspension_data,Manufacturing_Lot=="Lot1")$PSI,mu = 1500)
+t.test(subset(suspension_data,Manufacturing_Lot=="Lot2")$PSI,mu = 1500)
+t.test(subset(suspension_data,Manufacturing_Lot=="Lot3")$PSI,mu = 1500)
