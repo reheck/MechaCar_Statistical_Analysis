@@ -19,3 +19,24 @@ Lot_Summary
 
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/102757676/179272669-ad0b0d16-d70a-4210-90b9-47ef9f7946f0.png">
 
+## T-Tests on Suspension Coils
+briefly summarize your interpretation and findings for the t-test results
+
+All Manufacturing Lots
+
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/102757676/179277486-70890f96-6267-4cc9-8996-96b024c3510a.png">
+
+
+Manufacturing Lot 1
+
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/102757676/179277279-f4e74c76-e858-4a19-b288-35fe89e4ba74.png">
+
+
+Manufacturing Lot 2
+
+<img width="475" alt="image" src="https://user-images.githubusercontent.com/102757676/179277585-c5dbb118-4bbb-4dbf-8d9c-a2b3a7b52d8b.png">
+
+
+Manufacturing Lot 3
+
+<img width="470" alt="image" src="https://user-images.githubusercontent.com/102757676/179277387-df663ebc-7a52-42e0-b200-007bfbaed224.png">
