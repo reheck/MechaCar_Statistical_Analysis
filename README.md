@@ -40,3 +40,9 @@ Manufacturing Lot 2
 Manufacturing Lot 3
 
 <img width="480" alt="image" src="https://user-images.githubusercontent.com/102757676/179429184-fdf0c1fc-0c04-42b9-b9d6-1d01b088b950.png">
+
+
+## Study Design: MechaCar vs Competition
+
+### In order to quantify how the MechaCar performs against the competition, more data would need to be collected and a statistical study be performed on that data. In these days of high gas prices and human-induced global climate change, one metric of the utmost importance in a vehicle is city and highway fuel efficiency. The statistical test to perform would be a two-sample t-test to compare fuel efficiency of MechaCar to the competitor's fuel efficiency. The null hypothesis would be that there is no significant difference between the mean fuel efficiencies, and the alternative hypothesis would be that there is a significant difference between the mean fuel efficiencies. The fuel efficiency data for this two-sample t-test is numerical and continuous and would need to come from a reasonably large sample size for both MechaCar and the competitors' vehicles. The two-sample t-test would need to be performed once per each competitor vehicle to compare MechaCar to the different competitors' vehicles. 
+
